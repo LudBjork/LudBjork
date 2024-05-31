@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on my NeoVim config and trying to learn Rust (slowly)
-- 💬 Ask me about why I bother using Vim and tinkering w. the config so much
+
+💬 Ask me about why I bother using Vim and tinkering w. the config so much
