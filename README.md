@@ -1,4 +1,4 @@
-## Hello there 👋
+## Greetings👋 from Norway 🇳🇴
 
 ### One word to describe me: Curious
 
