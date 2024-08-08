@@ -1,4 +1,4 @@
-## Greetings👋 from Norway 🇳🇴
+# Greetings👋 from Norway 🇳🇴
 
 *One word to describe me: Curious*
 
@@ -29,3 +29,13 @@ Languages I have worked with:
 <br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LudBjork&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Hobbies:
+
+- Currently trying to learn Japanese 
+- Gaming 🎮
+- Photography 📷
+- Movies 🎥
+- Fitness / General wellbeing
+- Mountain hiking ⛰️
