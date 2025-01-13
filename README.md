@@ -25,10 +25,13 @@ Languages I have worked with:
                               
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width=40px />
           
+<i class="devicon-kotlin-plain colored" width=40px></i>
+
+<i class="devicon-helm-original colored" width=40px></i>
+          
+          
 </span>               
 <br>
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LudBjork&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Hobbies:
