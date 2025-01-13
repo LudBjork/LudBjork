@@ -1,10 +1,12 @@
 # Greetings👋 from Norway 🇳🇴
 
-*One word to describe me: Curious*
 
-Languages I have worked with:
+Tools I have worked with:
 
 <span>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=40px/>
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=40px />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width=40px />          
@@ -25,10 +27,10 @@ Languages I have worked with:
                               
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width=40px />
           
-<i class="devicon-kotlin-plain colored" width=40px></i>
-
-<i class="devicon-helm-original colored" width=40px></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width=40px />
           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width=40px/>
+           
           
 </span>               
 <br>
