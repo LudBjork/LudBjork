@@ -38,7 +38,7 @@ Tools I have worked with:
 
 ## Hobbies:
 
-- Currently trying to learn Japanese 
+- Currently learning Japanese 🇯🇵
 - Gaming 🎮
 - Photography 📷
 - Movies 🎥
