@@ -42,5 +42,5 @@ Tools I have worked with:
 - Gaming 🎮
 - Photography 📷
 - Movies 🎥
-- Fitness / General wellbeing
+- Fitness and wellbeing
 - Mountain hiking ⛰️
