@@ -38,9 +38,9 @@ Tools I have worked with:
 
 ## Hobbies:
 
-- Currently learning Japanese 🇯🇵
+- Currently learning Japanese 🇯🇵 (1 year milestone 😄)
 - Gaming 🎮
 - Photography 📷
 - Movies 🎥
 - Fitness and wellbeing
-- Mountain hiking ⛰️
+- Mountain hiking ⛰️ 
